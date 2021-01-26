@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,AAAC,CACH,gBAAgB,CAAE,IAAI,CACvB,AAED,AAAA,CAAC,AAAC,CACA,KAAK,CAAE,UAAU,CAClB",
+    "sources": [
+        "../.vscode/sass/main.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
